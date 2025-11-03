@@ -1,0 +1,9 @@
+Enter number of cities: 2
+Enter cost matrix (use large number for no direct route):
+2
+2
+2
+2
+
+Optimal Delivery Route (SwiftShip): 0 0 0
+Minimum Total Delivery Cost: 4
